@@ -1,0 +1,47 @@
+@import url('https://fonts.googleapis.com/css2?family=Major+Mono+Display&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Source+Code+Pro&display=swap');
+
+body {
+  background: #2b2a2b;
+}
+
+body {
+  margin: 0;
+  font-family: 'Source Code Pro', monospace;
+}
+
+img {
+  max-height: 100%;
+  width: 100%;
+}
+
+main {
+}
+
+.title {
+  font-size: 2em;
+}
+
+.tags {
+  font-size: .8rem;
+}
+
+.color-gray, a, h3, strike {
+  color: #f7f7f8;
+}
+
+.active {
+  color: #ff6a00;
+}
+
+.bg-gray {
+  background-color: #f7f7f8;
+}
+
+.MajorMono {
+  font-family: 'Major Mono Display', monospace;
+}
+
+.SourceCodePro {
+  font-family: 'Source Code Pro', monospace;
+}
